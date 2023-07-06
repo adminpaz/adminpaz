@@ -6,7 +6,9 @@ Python Developer at Plexigrid | Passionate for software development 🇪🇸
 
 
 
-Can also find me on [Linkedin](www.linkedin.com/in/adrián-miranda-paz)
+Can also find me on
+* [Linkedin](www.linkedin.com/in/adrián-miranda-paz)
+* [StackOverflow](https://stackexchange.com/users/10817349/adminpaz)
 
 
 <!--
