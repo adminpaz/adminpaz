@@ -4,6 +4,8 @@ Python Developer at Plexigrid | Passionate for software development 🇪🇸
 
 #Python #Django #Backend #SQL #DataAnalysis #BussinesIntelligence
 
+
+
 Can also find me on [Linkedin](www.linkedin.com/in/adrián-miranda-paz)
 
 
